@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kakamaulanaa1" target="blank"><img src="https://img.shields.io/twitter/follow/kakamaulanaa1?logo=twitter&style=for-the-badge" alt="kakamaulanaa1" /></a> </p>
 
-- 🔭 I’m currently working on **a**
+- 🔭 I’m currently working on **a freelance project**
 
 - 🌱 I’m currently learning **Laravel, CodeIgniter.**
 
