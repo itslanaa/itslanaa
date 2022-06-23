@@ -7,17 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kakamaulanaa1" target="blank"><img src="https://img.shields.io/twitter/follow/kakamaulanaa1?logo=twitter&style=for-the-badge" alt="kakamaulanaa1" /></a> </p>
 
-- 🔭 I’m currently working on **a freelance project**
-
-- 🌱 I’m currently learning **Laravel, CodeIgniter.**
-
-- 👯 I’m looking to collaborate on **with every client**
-
 - 👨‍💻 All of my projects are available at [https://km-dev.or.id](https://km-dev.or.id)
 
 - 📝 I regularly write articles on [https://blog.km-dev.or.id](https://blog.km-dev.or.id)
-
-- 💬 Ask me about **frontend development and native php**
 
 - 📫 How to reach me **maulanaabdillah73@gmail.com**
 
